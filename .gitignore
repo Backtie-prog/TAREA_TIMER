@@ -1,0 +1,18 @@
+build/
+mx.scratch
+!.settings
+
+# Local editor and simulator state
+*.workspace
+
+# Generated build files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.su
+
+# Local backups
+Project Backups/
